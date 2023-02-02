@@ -1,8 +1,10 @@
-# REAPER Magic Update for Linux
-A script that magically updates your REAPER Linux version using the official .tar.xz download.
+<h1 align="center">REAPER Magic Update for Linux</h1>
+<p align="center">A script that magically updates your REAPER Linux version using the official .tar.xz download.</p>
 
-### Pros
-You can easily update your REAPER Linux install by running this script rather than opening a web browser to download, and extracting the tar yourself.
+<p align="center">Always remember that keeping your software updated can be important for security and stability.</p>
 
-### Cons
-N/A
+<h1 align="center">Pros</h1>
+<p align="center">You can easily update your REAPER Linux install by running this script rather than opening a web browser to download, and extracting the tar yourself.</p>
+
+<h1 align="center">Cons</h1>
+<p align="center">N/A</p>
